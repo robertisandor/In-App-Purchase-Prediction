@@ -1,7 +1,7 @@
 # Final Project: FatPapaya
 final-project-fatpapaya created by GitHub Classroom
 
-<div align="left">
+<div align="center">
    <img src="https://usfdons.com/images/responsive/footer_usfca.png" style="width:250px;">
 </div>
 <div align="center"><b>MSDS630 - Advanced Machine Learning</b></div>
