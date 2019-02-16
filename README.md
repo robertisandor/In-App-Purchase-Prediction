@@ -2,7 +2,7 @@
 final-project-fatpapaya created by GitHub Classroom
 
 <div align="center">
-   <img src="http://clipart-library.com/images/pi5d4Ry5T.jpg" height=10>
+   <img src="http://clipart-library.com/images/pi5d4Ry5T.jpg" height=150>
 </div>
 
 
