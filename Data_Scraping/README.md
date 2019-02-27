@@ -41,3 +41,4 @@ Data Dictionary
 Event_Get_Date_Feature.ipynb - Compute the info about users' last purchases
 
 
+
